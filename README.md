@@ -1,6 +1,8 @@
 # cynosure_study
 
 **Welcome to the Cynosure study!**
+In order to ensure that you've created the necessary python environment, run pip install -r requirements.txt from the root directory of this project in your local machine.
+
 We ask that you use this project, along with any analytical/visualization tools you are most comfortable with to gain insights on the data analysis being performed in *<ex>.ipynb*. 
 
 The original datasets are: AB_NYC_2019.csv and hfi_cc_2020.csv
