@@ -1,4 +1,4 @@
-# cynosure_study
+# Cynosure Study
 
 **Welcome to the Cynosure study!**
 In order to ensure that you've created the necessary python environment, run `pip install -r requirements.txt` from the root directory of this project where it is install on your local machine.
