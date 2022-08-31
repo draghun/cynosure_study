@@ -1,10 +1,16 @@
 # Cynosure Study
 
 **Welcome to the Cynosure study!**
-In order to ensure that you've created the necessary python environment, run `pip install -r requirements.txt` from the root directory of this project where it is install on your local machine.
+
+* DIRECTIONS FOR THE INTERVIEW*
+In order to ensure that you've created the necessary python environment, run `pip install -r requirements.txt` from the root directory of this project where it is install on your local machine. This will automatically install Jupyter Lab and the required libraries if it's not already available. 
+
+Once you have all these installed. Read through the meta-analysis.ipynb file in order to understand the meta-data. 
+All this will prepare you for the interview. 
 
 We ask that you use this project, along with any analytical/visualization tools you are most comfortable with to gain insights on the data analysis being performed in *<ex>.ipynb*. 
 
+* EXPLANATION OF PROJECT *
 The original datasets are: AB_NYC_2019.csv and hfi_cc_2020.csv
 The original analysis was conduncted in notebooks: AB_analysis.ipynb and HFI_analysis.ipynb
 
